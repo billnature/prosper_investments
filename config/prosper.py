@@ -16,7 +16,7 @@
 COMPANY_NAME = 'Prosper Investments'
 COMPANY_TITLE = 'prosper investments company'
 COMPANY_CONTACT = '1234567890'
-COMPANY_EMAIL = 'ronireiosantos@gmail.com'
+COMPANY_EMAIL = 'yourcompanyname@email.dom'
 
 # database
 DB_NAME = 'prosper'
